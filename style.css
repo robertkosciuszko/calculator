@@ -13,7 +13,7 @@ html {
 }
 body {
     min-height: 100vh;
-    background-image: linear-gradient(to right bottom, #e4a7db, #d245db, #a22dce, #7d3ac5, #4d56bd);
+    background-image:radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(34, 185, 150, 1) 100%);
     display: flex;
     justify-content: center;
     align-items: center;
